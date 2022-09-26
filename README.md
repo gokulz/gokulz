@@ -1,4 +1,4 @@
-### Hello Friends 👋
+### Hello Friends Im z!👋
 
 <!--
 **gokulz/gokulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
